@@ -191,3 +191,7 @@ document.cookie = name + "=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;";
 # **20. What’s the difference between let and var?**
 
 Both let and var are used for variable and method declarations in JavaScript. So there isn’t much of a difference between these two besides that while var keyword is scoped by function, the let keyword is scoped by a block.
+
+# **21. what is async await in JS?**
+
+It is a function or a method that is used to pass any event at the desired class.
