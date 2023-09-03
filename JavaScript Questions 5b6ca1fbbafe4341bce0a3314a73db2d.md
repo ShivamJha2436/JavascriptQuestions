@@ -191,3 +191,6 @@ document.cookie = name + "=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;";
 # **20. What’s the difference between let and var?**
 
 Both let and var are used for variable and method declarations in JavaScript. So there isn’t much of a difference between these two besides that while var keyword is scoped by function, the let keyword is scoped by a block.
+
+# **22. What are Promises in JS ? 
+Promises in JavaScript are a mechanism for handling asynchronous operations. They provide a way to work with asynchronous code in a more organized and readable manner, making it easier to manage and coordinate multiple asynchronous tasks.
