@@ -195,3 +195,6 @@ Both let and var are used for variable and method declarations in JavaScript. So
 # **21. what is async await in JS?**
 
 Async simply allows us to write promises-based code as if it was synchronous and it checks that we are not breaking the execution thread. It operates asynchronously via the event loop. Async functions will always return a value. It makes sure that a promise is returned and if it is not returned then JavaScript automatically wraps it in a promise which is resolved with its value.
+
+# **22. Explain Callback hell ?
+Callback hell, also known as "Pyramid of Doom," is a term used in JavaScript development to describe a situation where multiple nested callbacks make the code difficult to read, understand, and maintain. This typically occurs when dealing with asynchronous operations, such as handling AJAX requests, file I/O, or timers, which depend on each other or have complex dependencies.
