@@ -194,4 +194,4 @@ Both let and var are used for variable and method declarations in JavaScript. So
 
 # **21. what is async await in JS?**
 
-It is a function or a method that is used to pass any event at the desired class.
+Async simply allows us to write promises-based code as if it was synchronous and it checks that we are not breaking the execution thread. It operates asynchronously via the event loop. Async functions will always return a value. It makes sure that a promise is returned and if it is not returned then JavaScript automatically wraps it in a promise which is resolved with its value.
