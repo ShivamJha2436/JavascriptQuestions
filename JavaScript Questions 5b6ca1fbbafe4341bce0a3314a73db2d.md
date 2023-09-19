@@ -198,3 +198,5 @@ Async simply allows us to write promises-based code as if it was synchronous and
 
 # **22. Explain Callback hell ?
 Callback hell, also known as "Pyramid of Doom," is a term used in JavaScript development to describe a situation where multiple nested callbacks make the code difficult to read, understand, and maintain. This typically occurs when dealing with asynchronous operations, such as handling AJAX requests, file I/O, or timers, which depend on each other or have complex dependencies.
+# **23. What is the use of the isNaN function?
+The number isNan function in JavaScript is used to determine whether the passed value is NaN (Not a number) and is of the type “Number”. In JavaScript, the value NaN is considered a type of number. It returns true if the argument is not a number, else it returns false.
